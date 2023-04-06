@@ -1,3 +1,11 @@
+## What is this fork for?
+This fork is to adapate some acculration approach to miniumize the waiting time for processing, add GPU support, and a possible interactive GUI for realtime processing, or a GNU radio moudule.
+## TODO
+Try and analysis possbile improvement
+Numba accreation apply to all function
+GPU acculraion
+GUI?
+-----Devided------
 ![](./title_image.png)
 
 ## What Is This???
